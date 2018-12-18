@@ -26,3 +26,14 @@ In the next few commits, i'll add implementations in PyTorch as well.
 1. Q-Learning
 2. Expected value SARSA
 3. Q-Learning using experience replay 
+
+###### Week 4:
+1. Approximate Q-Learning
+2. DQN on Atari: Breakout.
+
+
+
+
+
+
+## Research Papers:
