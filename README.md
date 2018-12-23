@@ -31,7 +31,9 @@ In the next few commits, i'll add implementations in PyTorch as well.
 1. Approximate Q-Learning
 2. DQN on Atari: Breakout.
 
-
+###### Week 5:
+1. REINFORCE
+2. Asynchronous Actor Critic method (A3C)
 
 
 
