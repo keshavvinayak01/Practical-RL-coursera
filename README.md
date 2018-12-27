@@ -35,7 +35,8 @@ In the next few commits, i'll add implementations in PyTorch as well.
 1. REINFORCE
 2. Asynchronous Actor Critic method (A3C)
 
-
-
+###### Week 6: 
+1. Multi Arm bandits (including different approximation methods)
+2. Monte Carlo Tree Search
 
 ## Research Papers:
